@@ -1,0 +1,10 @@
+{
+  "name": "オリカ図鑑",
+  "short_name": "オリカ図鑑",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0c0d",
+  "theme_color": "#121212",
+  "description": "オリジナルMTGカードを画像ごと登録・編集・閲覧する図鑑Webアプリ"
+}
